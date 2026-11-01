@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-16T21:56:50.215063",
+            "datePublished": "2026-11-01T16:23:03.018783",
             "hasPart": [
                 {
                     "@id": "Genome_annotation_with_maker_short.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/annotation-maker",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
